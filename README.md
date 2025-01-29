@@ -213,11 +213,6 @@ The expected output will be:
 - Deploy on a globally distributed platform (e.g., **AWS**, **Fly.io**).
 - Add caching for faster predictions.
 
----
-
-## **Contact**
-- **Author**: Pallav Chavda
-- **Email**: [your-email@example.com](mailto:pallavdrj7533@gmail.com)
 
 ## **Deployment**
 The project is deployed at[![Deployment](https://img.shields.io/badge/Live%20Demo-Render-blue)](https://end-to-end-sentiment-analysis-pipeline.onrender.com)
@@ -227,6 +222,10 @@ Steps to deploy:
 - Connect the repository to Render.
 - Configure environment variables (e.g., PostgreSQL URL).
 - Deploy the Flask app.
+
+## **Contact**
+- **Author**: Pallav Chavda
+- **Email**: [pallavdrj7533@gmail.com](mailto:pallavdrj7533@gmail.com)
 
 
 
