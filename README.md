@@ -134,7 +134,7 @@ conn.close()
 To train the model on the IMDB dataset, run the following Python script:
 
 ```bash
-python train_model.py
+python Train-model.py
 ```
 
 This will:
@@ -216,5 +216,18 @@ The expected output will be:
 ---
 
 ## **Contact**
-- **Author**: Pallav Havda
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Author**: Pallav Chavda
+- **Email**: [your-email@example.com](mailto:pallavdrj7533@gmail.com)
+
+## **Deployment**
+The project is deployed at[![Deployment](https://img.shields.io/badge/Live%20Demo-Render-blue)](https://end-to-end-sentiment-analysis-pipeline.onrender.com)
+Free Tier Deployment (Render)
+Steps to deploy:
+- Push the project to GitHub.
+- Connect the repository to Render.
+- Configure environment variables (e.g., PostgreSQL URL).
+- Deploy the Flask app.
+
+
+
+
