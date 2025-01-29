@@ -16,14 +16,14 @@ pip install -r requirements.txt
 
 ### **2. Set Up PostgreSQL Database**
 
-#1.install the postgresql
+1.install the postgresql
 To set up PostgreSQL for the project, follow these steps:
 On Windows: Download from https://www.postgresql.org/download/
 
-#2. Create Database and Table:
+2. Create Database and Table:
 CREATE DATABASE imdb_reviews_db;
 
-#3. Database Connection
+3. Database Connection
 
 import psycopg2
 
